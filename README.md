@@ -1,1 +1,1 @@
-# dcgan550
+# dcgan
